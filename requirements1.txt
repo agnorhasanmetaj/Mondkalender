@@ -1,4 +1,4 @@
 streamlit==1.39.0
-astral
+astral==3.2
 pytz
-pandas
+panda
